@@ -44,9 +44,6 @@ const horaActual = () => {
   min = horaDelDia.getMinutes();
   seg = horaDelDia.getSeconds();
 
-  console.log(horas);
-  console.log(min);
-  console.log(seg);
   if (horas < 10) {
     horas = "0" + `${horas}`;
   }
