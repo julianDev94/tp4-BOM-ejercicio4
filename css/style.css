@@ -1,0 +1,11 @@
+body{
+    background: rgb(2,0,36);
+}
+
+#articleFecha{
+    height: 80px;
+}
+
+#articleHora{
+    height: 150px;
+}
